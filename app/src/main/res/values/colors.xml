@@ -3,4 +3,22 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="primary">#6750A4</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#EADDFF</color>
+    <color name="onPrimaryContainer">#21005D</color>
+
+    <color name="secondary">#625B71</color>
+    <color name="onSecondary">#FFFFFF</color>
+
+    <color name="background">#FFFBFE</color>
+    <color name="onBackground">#1C1B1F</color>
+    <color name="surface">#FFFBFE</color>
+    <color name="onSurface">#1C1B1F</color>
+
+    <color name="color_x">#D32F2F</color>
+    <color name="color_o">#1976D2</color>
+
+    <color name="winner_highlight">#4CAF50</color> <!-- Green for winner -->
+    <color name="on_winner_highlight">#FFFFFF</color>
 </resources>
